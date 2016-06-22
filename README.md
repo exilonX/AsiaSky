@@ -1,5 +1,6 @@
 # AsiaSky
 Find the cheapest airline ticket between two airports.
+
 Input :
   - Departure Airport
   - Arrival Airport
@@ -11,4 +12,4 @@ Search using the skyscanner api for live prices from First Day of departure from
 Output:
   - The cheapest flight
   - The departure dates
-  - Link to buy the ticket 
+  - Link to buy the ticket
